@@ -28,7 +28,6 @@
   - 7-Day Forecast (Dual Line Chart: Max & Min)
 - **Glassmorphism UI** with backdrop blur
 - **Fully Responsive** – Works on mobile, tablet, desktop
-- **PWA-Ready** (add manifest + service worker if needed)
 
 ---
 
